@@ -38,4 +38,4 @@ feature: /hexo-theme-freemind/images/qna/qna.jpg
 
 {% label Q danger %} 从哪里可以找到你的这几篇文档的 Markdown 源码？
 
-{% label A success %} 在项目的 [source](https://github.com/wzpan/hexo-theme-freemind/tree/source) 分支。
+{% label A success %} 在本站点的 [源码仓库](https://github.com/wzpan/hexo-theme-freemind-blog) 。

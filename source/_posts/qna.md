@@ -38,4 +38,4 @@ feature: /hexo-theme-freemind/images/qna/qna.jpg
 
 {% label Q danger %} Where can I find your markdown source files of these docs?
 
-{% label A success %} In the [source](https://github.com/wzpan/hexo-theme-freemind/tree/source) branch.
+{% label A success %} From the [source repo](https://github.com/wzpan/hexo-theme-freemind-blog) of this site.

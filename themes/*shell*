@@ -1,0 +1,37 @@
+wzpan@wzpan-ThinkPad-T420 ~/Documents/projects/hexo-theme-freemind $ npm start
+
+> hexo-site@0.0.0 start /home/wzpan/文档/projects/hexo-theme-freemind
+> node node_modules/hexo/bin/hexo server
+
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000/hexo-theme-freemind/. Press Ctrl+C to stop.
+  C-c C-cINFO  Farewell
+
+wzpan@wzpan-ThinkPad-T420 ~/Documents/projects/hexo-theme-freemind $ cd themes/
+wzpan@wzpan-ThinkPad-T420 ~/Documents/projects/hexo-theme-freemind/themes $ ls
+freemind
+wzpan@wzpan-ThinkPad-T420 ~/Documents/projects/hexo-theme-freemind/themes $ git rm --cached freemind
+rm 'themes/freemind'
+wzpan@wzpan-ThinkPad-T420 ~/Documents/projects/hexo-theme-freemind/themes $ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	deleted:    freemind
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   ../source/_posts/qna-cn.md
+	modified:   ../source/_posts/qna.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../source/_posts/build-in-comment.md
+	../source/images/comment/
+	./
+
+wzpan@wzpan-ThinkPad-T420 ~/Documents/projects/hexo-theme-freemind/themes $ git add --all
