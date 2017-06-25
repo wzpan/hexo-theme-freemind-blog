@@ -21,6 +21,7 @@
     "hexo-tag-bootstrap": "0.0.8"
   },
   "scripts": {
-    "start": "node node_modules/hexo/bin/hexo server"
+      "start": "node node_modules/hexo/bin/hexo server",
+	  "deploy": "node node_modules/hexo/bin/hexo deploy"
   }
 }

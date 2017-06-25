@@ -7,3 +7,9 @@ To start the server, run:
 ``` sh
 npm start
 ```
+
+To deploy, run:
+
+``` sh
+npm run deploy
+```

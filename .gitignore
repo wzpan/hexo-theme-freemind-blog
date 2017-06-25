@@ -1,2 +1,5 @@
 db.json
 *shell*
+.deploy_git
+public
+themes/freemind

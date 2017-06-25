@@ -1,4 +1,4 @@
-title: Build-in Comment System
+title: Built-in Comment System
 date: "2017-6-24 13:45:16"
 tags: comment
 categories: Demo
