@@ -24,16 +24,22 @@
   
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/hexo-theme-freemind/css/themes/bootstrap.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/hexo-theme-freemind/css/themes/cerulean.css" media="screen" type="text/css">
   <link rel="stylesheet" href="/hexo-theme-freemind/css/font-awesome.css" media="screen" type="text/css">
   <link rel="stylesheet" href="/hexo-theme-freemind/css/style.css" media="screen" type="text/css">
   <link rel="stylesheet" href="/hexo-theme-freemind/css/responsive.css" media="screen" type="text/css">
   <link rel="stylesheet" href="/hexo-theme-freemind/css/highlight.css" media="screen" type="text/css">
   <link rel="stylesheet" href="/hexo-theme-freemind/css/google-fonts.css" media="screen" type="text/css">
+  <link rel="stylesheet" href="/hexo-theme-freemind/css/comment.css" media="screen" type="text/css">
   <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
   <script src="/hexo-theme-freemind/js/jquery-2.0.3.min.js"></script>
-
+  
+    <script src="/hexo-theme-freemind/js/comment.min.js"></script> 
+    <script src="/hexo-theme-freemind/js/markdown.min.js"></script>
+    <script src="/hexo-theme-freemind/js/timeago.min.js"></script>
+	<script src="/hexo-theme-freemind/js/spin.min.js"></script>
+  
   <!-- analytics -->
   
 
@@ -140,9 +146,9 @@
 	<div class="pagination">
 <ul class="pagination">
 	 
-		
-          <li class="prev disabled"><a><i class="fa fa-arrow-circle-o-left"></i>Prev</a></li>
-        
+				
+    	<li class="prev"><a href="/hexo-theme-freemind/2017/06/24/build-in-comment-cn/" class="alignleft prev"><i class="fa fa-arrow-circle-o-left"></i>Prev</a></li>
+  		
 
         <li><a href="/hexo-theme-freemind/archives"><i class="fa fa-archive"></i>Archive</a></li>
 
@@ -184,13 +190,29 @@
 	
 <section id="comment">
   <h2 class="title">Comments</h2>
-
-  
-  	 <div id="disqus_thread">
-     <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-  	 </div>
+    	 
+	 <div id="comment-thread"></div>
+	 <div id="loading-spin"></div>
+	 <script type="text/javascript">
+	   getComments({
+           type: "github" ? "github" : "github",       
+	       user: "wzpan",
+	       repo: "hexo-theme-freemind-blog",
+		   client_id: "bf7d4ba11877db88543e",
+           client_secret: "bff8a6b06b745c0bfcdccbe225623ea8e2a057bb",
+		   no_comment: "No comments yet. Press the button and go to comment now!",
+		   go_to_comment: "Go to comment",
+		   no_issue: "no_issue",
+		   issue_title: "Questions and Answers",
+		   issue_id: "undefined",
+		   btn_class: "btn btn-primary",
+		   comments_target: "#comment-thread",
+		   loading_target: "#loading_spin"
+		   });
+	 </script>
   
 </section>
+
 
 	</div> <!-- col-md-9/col-md-12 -->
 		
@@ -229,7 +251,7 @@
   <li><a href="/hexo-theme-freemind/tags/Q-A/">Q&A<span>2</span></a></li>
     </ul>
 	</div>
-		
+	
 
 	<!-- toc -->
 	<div class="meta-widget">
@@ -244,17 +266,6 @@
 		
 
 </div><!-- row -->
-
-<script type="text/javascript">
-var disqus_shortname = 'hexofm';
-(function(){
-  var dsq = document.createElement('script');
-  dsq.type = 'text/javascript';
-  dsq.async = true;
-  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-}());
-</script>
 
 
 
