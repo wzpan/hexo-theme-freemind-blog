@@ -4,6 +4,65 @@
   
     
     <entry>
+      <title><![CDATA[Color Themes]]></title>
+      <url>http://wzpan.github.io/hexo-theme-freemind/2016/01/30/color-themes/</url>
+      <content type="html"><![CDATA[<p>Freemind contains luxuriant color themes for your choice. To use one of them, simply modify the <code>theme</code> and <code>inverse</code> settings from your theme <code>_config.yml</code> file <em>e.g.</em></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">theme: bootstrap</div><div class="line">inverse: true</div></pre></td></tr></table></figure>
+<p>, where <code>theme</code> here indicates which theme you are going to use, and <code>inverse</code> here says you want inverse color scheme on some important components such as navigation bar and header title.</p>
+<p>User contributions are welcome! If you want to contribute a color theme, you can <a href="https://github.com/wzpan/hexo-theme-freemind/tree/dev" target="_blank" rel="external">fork the dev branch</a> . Write a new theme in LESS and send me a pull request.</p>
+<a id="more"></a>
+<h2 id="bootstrap"><a href="#bootstrap" class="headerlink" title="bootstrap"></a>bootstrap</h2><h3 id="default"><a href="#default" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/bootstrap.png" alt="bootstrap"></p>
+<h3 id="inverse"><a href="#inverse" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/bootstrap-inverse.png" alt="bootstrap-inverse"></p>
+<h2 id="cerulean"><a href="#cerulean" class="headerlink" title="cerulean"></a>cerulean</h2><h3 id="default-1"><a href="#default-1" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/cerulean.png" alt="cerulean"></p>
+<h3 id="inverse-1"><a href="#inverse-1" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/cerulean-inverse.png" alt="cerulean-inverse"></p>
+<h2 id="cosmo"><a href="#cosmo" class="headerlink" title="cosmo"></a>cosmo</h2><h3 id="default-2"><a href="#default-2" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/cosmo.png" alt="cosmo"></p>
+<h3 id="inverse-2"><a href="#inverse-2" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/cosmo-inverse.png" alt="cosmo-inverse"></p>
+<h2 id="cyborg"><a href="#cyborg" class="headerlink" title="cyborg"></a>cyborg</h2><h3 id="default-3"><a href="#default-3" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/cyborg.png" alt="cyborg"></p>
+<h3 id="inverse-3"><a href="#inverse-3" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/cyborg-inverse.png" alt="cyborg-inverse"></p>
+<h2 id="darkly"><a href="#darkly" class="headerlink" title="darkly"></a>darkly</h2><h3 id="default-4"><a href="#default-4" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/darkly.png" alt="darkly"></p>
+<h3 id="inverse-4"><a href="#inverse-4" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/darkly-inverse.png" alt="darkly-inverse"></p>
+<h2 id="flatly"><a href="#flatly" class="headerlink" title="flatly"></a>flatly</h2><h3 id="default-5"><a href="#default-5" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/flatly.png" alt="flatly"></p>
+<h3 id="inverse-5"><a href="#inverse-5" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/flatly-inverse.png" alt="flatly"></p>
+<h2 id="journal"><a href="#journal" class="headerlink" title="journal"></a>journal</h2><h3 id="default-6"><a href="#default-6" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/journal.png" alt="journal"></p>
+<h3 id="inverse-6"><a href="#inverse-6" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/journal-inverse.png" alt="journal-inverse"></p>
+<h2 id="lumen"><a href="#lumen" class="headerlink" title="lumen"></a>lumen</h2><h3 id="default-7"><a href="#default-7" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/lumen.png" alt="lumen"></p>
+<h3 id="inverse-7"><a href="#inverse-7" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/lumen-inverse.png" alt="lumen-inverse"></p>
+<h2 id="paper"><a href="#paper" class="headerlink" title="paper"></a>paper</h2><h3 id="default-8"><a href="#default-8" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/paper.png" alt="paper"></p>
+<h3 id="inverse-8"><a href="#inverse-8" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/paper-inverse.png" alt="paper-inverse"></p>
+<h2 id="readable"><a href="#readable" class="headerlink" title="readable"></a>readable</h2><h3 id="default-9"><a href="#default-9" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/readable.png" alt="readable"></p>
+<h3 id="inverse-9"><a href="#inverse-9" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/readable-inverse.png" alt="readable-inverse"></p>
+<h2 id="sandstone"><a href="#sandstone" class="headerlink" title="sandstone"></a>sandstone</h2><h3 id="default-10"><a href="#default-10" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/sandstone.png" alt="sandstone"></p>
+<h3 id="inverse-10"><a href="#inverse-10" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/sandstone-inverse.png" alt="sandstone-inverse"></p>
+<h2 id="simplex"><a href="#simplex" class="headerlink" title="simplex"></a>simplex</h2><h3 id="default-11"><a href="#default-11" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/simplex.png" alt="simplex"></p>
+<h3 id="inverse-11"><a href="#inverse-11" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/simplex-inverse.png" alt="simplex-inverse"></p>
+<h2 id="slate"><a href="#slate" class="headerlink" title="slate"></a>slate</h2><h3 id="default-12"><a href="#default-12" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/slate.png" alt="slate"></p>
+<h3 id="inverse-12"><a href="#inverse-12" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/slate-inverse.png" alt="slate-inverse"></p>
+<h2 id="spacelab"><a href="#spacelab" class="headerlink" title="spacelab"></a>spacelab</h2><h3 id="default-13"><a href="#default-13" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/spacelab.png" alt="spacelab"></p>
+<h3 id="inverse-13"><a href="#inverse-13" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/spacelab-inverse.png" alt="spacelab-inverse"></p>
+<h2 id="superhero"><a href="#superhero" class="headerlink" title="superhero"></a>superhero</h2><h3 id="default-14"><a href="#default-14" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/superhero.png" alt="superhero"></p>
+<h3 id="inverse-14"><a href="#inverse-14" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/superhero-inverse.png" alt="superhero-inverse"></p>
+<h2 id="united"><a href="#united" class="headerlink" title="united"></a>united</h2><h3 id="default-15"><a href="#default-15" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/united.png" alt="united"></p>
+<h3 id="inverse-15"><a href="#inverse-15" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/united-inverse.png" alt="united-inverse"></p>
+<h2 id="yeti"><a href="#yeti" class="headerlink" title="yeti"></a>yeti</h2><h3 id="default-16"><a href="#default-16" class="headerlink" title="default"></a>default</h3><p><img src="/hexo-theme-freemind/images/color-themes/yeti.png" alt="yeti"></p>
+<h3 id="inverse-16"><a href="#inverse-16" class="headerlink" title="inverse"></a>inverse</h3><p><img src="/hexo-theme-freemind/images/color-themes/yeti-inverse.png" alt="yeti-inverse"></p>
+]]></content>
+      
+        <categories>
+            
+            <category> Docs </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> themes </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Questions and Answers]]></title>
       <url>http://wzpan.github.io/hexo-theme-freemind/2014/03/16/qna/</url>
       <content type="html"><![CDATA[<span class="label label-danger">Q</span> What does <code>Freemind</code> stands for?<br><br><span class="label label-success">A</span> <code>Freemind</code> is named after <a href="http://freemind.pluskid.org/" target="_blank" rel="external">Pluskid’s blog</a>. This theme is greatly inspired by his blog layouts and stylesheets.<br><br><span class="label label-danger">Q</span> There’re already so many themes for Hexo. Why create this one?<br><br><span class="label label-success">A</span> In fact I created this theme before I turned to use Hexo. I switched to Hexo about half an year ago, including my theme, since I have already got used to it and don’t wanna change it for now.<br><br><a id="more"></a>
