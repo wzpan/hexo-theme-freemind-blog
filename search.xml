@@ -488,6 +488,12 @@
     </entry>
     
     <entry>
+      <title><![CDATA[Tags]]></title>
+      <url>http://wzpan.github.io/hexo-theme-freemind/tags/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[About]]></title>
       <url>http://wzpan.github.io/hexo-theme-freemind/about/index.html</url>
       <content type="html"><![CDATA[
@@ -498,12 +504,6 @@ Something about me. ;-)
     <entry>
       <title><![CDATA[Categories]]></title>
       <url>http://wzpan.github.io/hexo-theme-freemind/categories/index.html</url>
-      <content type="html"></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Tags]]></title>
-      <url>http://wzpan.github.io/hexo-theme-freemind/tags/index.html</url>
       <content type="html"></content>
     </entry>
     
