@@ -12,8 +12,8 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wzpan.github.io/hexo-theme-freemind/
-root: /hexo-theme-freemind/
+url: http://wzpan.github.io/hexo-theme-freemind-blog/
+root: /hexo-theme-freemind-blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -72,7 +72,7 @@ theme: freemind
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wzpan/hexo-theme-freemind.git
+  repo: https://github.com/wzpan/hexo-theme-freemind-blog.git
   branch: gh-pages
 
 search:
