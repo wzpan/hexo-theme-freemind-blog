@@ -3,7 +3,7 @@ date: "2014-03-16 18:10:16"
 tags: Q&A
 categories: Docs
 description: "Frequently asked questions and my answers."
-feature: /hexo-theme-freemind/images/qna/qna.jpg
+feature: /hexo-theme-freemind-blog/images/qna/qna.jpg
 ---
 
 {% label Q danger %} `Freemind` 这名字有何含义？

@@ -4,7 +4,7 @@ tags: themes
 categories: Docs
 description: "A list of all the official color themes."
 shadow: true
-feature: /hexo-theme-freemind/images/color-themes.png
+feature: /hexo-theme-freemind-blog/images/color-themes.png
 toc: true
 ---
 
@@ -17,7 +17,7 @@ inverse: true
 
 , where `theme` here indicates which theme you are going to use, and `inverse` here says you want inverse color scheme on some important components such as navigation bar and header title.
 
-User contributions are welcome! If you want to contribute a color theme, you can [fork the dev branch](https://github.com/wzpan/hexo-theme-freemind/tree/dev) . Write a new theme in LESS and send me a pull request.
+User contributions are welcome! If you want to contribute a color theme, you can [fork the dev branch](https://github.com/wzpan/hexo-theme-freemind-blog/tree/dev) . Write a new theme in LESS and send me a pull request.
 
 <!-- more -->
 
@@ -25,168 +25,168 @@ User contributions are welcome! If you want to contribute a color theme, you can
 
 ### default ###
 
-![bootstrap](/hexo-theme-freemind/images/color-themes/bootstrap.png)
+![bootstrap](/hexo-theme-freemind-blog/images/color-themes/bootstrap.png)
 
 ### inverse ###
 
-![bootstrap-inverse](/hexo-theme-freemind/images/color-themes/bootstrap-inverse.png)
+![bootstrap-inverse](/hexo-theme-freemind-blog/images/color-themes/bootstrap-inverse.png)
 
 ## cerulean ##
 
 ### default ###
 
-![cerulean](/hexo-theme-freemind/images/color-themes/cerulean.png)
+![cerulean](/hexo-theme-freemind-blog/images/color-themes/cerulean.png)
 
 ### inverse ###
 
-![cerulean-inverse](/hexo-theme-freemind/images/color-themes/cerulean-inverse.png)
+![cerulean-inverse](/hexo-theme-freemind-blog/images/color-themes/cerulean-inverse.png)
 
 ## cosmo ##
 
 ### default ###
 
-![cosmo](/hexo-theme-freemind/images/color-themes/cosmo.png)
+![cosmo](/hexo-theme-freemind-blog/images/color-themes/cosmo.png)
 
 ### inverse ###
 
-![cosmo-inverse](/hexo-theme-freemind/images/color-themes/cosmo-inverse.png)
+![cosmo-inverse](/hexo-theme-freemind-blog/images/color-themes/cosmo-inverse.png)
 
 ## cyborg ##
 
 ### default ###
 
-![cyborg](/hexo-theme-freemind/images/color-themes/cyborg.png)
+![cyborg](/hexo-theme-freemind-blog/images/color-themes/cyborg.png)
 
 ### inverse ###
 
-![cyborg-inverse](/hexo-theme-freemind/images/color-themes/cyborg-inverse.png)
+![cyborg-inverse](/hexo-theme-freemind-blog/images/color-themes/cyborg-inverse.png)
 
 ## darkly ##
 
 ### default ###
 
-![darkly](/hexo-theme-freemind/images/color-themes/darkly.png)
+![darkly](/hexo-theme-freemind-blog/images/color-themes/darkly.png)
 
 ### inverse ###
 
-![darkly-inverse](/hexo-theme-freemind/images/color-themes/darkly-inverse.png)
+![darkly-inverse](/hexo-theme-freemind-blog/images/color-themes/darkly-inverse.png)
 
 ## flatly ##
 
 ### default ###
 
-![flatly](/hexo-theme-freemind/images/color-themes/flatly.png)
+![flatly](/hexo-theme-freemind-blog/images/color-themes/flatly.png)
 
 ### inverse ###
 
-![flatly](/hexo-theme-freemind/images/color-themes/flatly-inverse.png)
+![flatly](/hexo-theme-freemind-blog/images/color-themes/flatly-inverse.png)
 
 ## journal ##
 
 ### default ###
 
-![journal](/hexo-theme-freemind/images/color-themes/journal.png)
+![journal](/hexo-theme-freemind-blog/images/color-themes/journal.png)
 
 ### inverse ###
 
-![journal-inverse](/hexo-theme-freemind/images/color-themes/journal-inverse.png)
+![journal-inverse](/hexo-theme-freemind-blog/images/color-themes/journal-inverse.png)
 
 ## lumen ##
 
 ### default ###
 
-![lumen](/hexo-theme-freemind/images/color-themes/lumen.png)
+![lumen](/hexo-theme-freemind-blog/images/color-themes/lumen.png)
 
 ### inverse ###
 
-![lumen-inverse](/hexo-theme-freemind/images/color-themes/lumen-inverse.png)
+![lumen-inverse](/hexo-theme-freemind-blog/images/color-themes/lumen-inverse.png)
 
 ## paper ##
 
 ### default ###
 
-![paper](/hexo-theme-freemind/images/color-themes/paper.png)
+![paper](/hexo-theme-freemind-blog/images/color-themes/paper.png)
 
 ### inverse ###
 
-![paper-inverse](/hexo-theme-freemind/images/color-themes/paper-inverse.png)
+![paper-inverse](/hexo-theme-freemind-blog/images/color-themes/paper-inverse.png)
 
 ## readable ##
 
 ### default ###
 
-![readable](/hexo-theme-freemind/images/color-themes/readable.png)
+![readable](/hexo-theme-freemind-blog/images/color-themes/readable.png)
 
 ### inverse ###
 
-![readable-inverse](/hexo-theme-freemind/images/color-themes/readable-inverse.png)
+![readable-inverse](/hexo-theme-freemind-blog/images/color-themes/readable-inverse.png)
 
 ## sandstone ##
 
 ### default ###
 
-![sandstone](/hexo-theme-freemind/images/color-themes/sandstone.png)
+![sandstone](/hexo-theme-freemind-blog/images/color-themes/sandstone.png)
 
 ### inverse ###
 
-![sandstone-inverse](/hexo-theme-freemind/images/color-themes/sandstone-inverse.png)
+![sandstone-inverse](/hexo-theme-freemind-blog/images/color-themes/sandstone-inverse.png)
 
 ## simplex ##
 
 ### default ###
 
-![simplex](/hexo-theme-freemind/images/color-themes/simplex.png)
+![simplex](/hexo-theme-freemind-blog/images/color-themes/simplex.png)
 
 ### inverse ###
 
-![simplex-inverse](/hexo-theme-freemind/images/color-themes/simplex-inverse.png)
+![simplex-inverse](/hexo-theme-freemind-blog/images/color-themes/simplex-inverse.png)
 
 ## slate ##
 
 ### default ###
 
-![slate](/hexo-theme-freemind/images/color-themes/slate.png)
+![slate](/hexo-theme-freemind-blog/images/color-themes/slate.png)
 
 ### inverse ###
 
-![slate-inverse](/hexo-theme-freemind/images/color-themes/slate-inverse.png)
+![slate-inverse](/hexo-theme-freemind-blog/images/color-themes/slate-inverse.png)
 
 ## spacelab ##
 
 ### default ###
 
-![spacelab](/hexo-theme-freemind/images/color-themes/spacelab.png)
+![spacelab](/hexo-theme-freemind-blog/images/color-themes/spacelab.png)
 
 ### inverse ###
 
-![spacelab-inverse](/hexo-theme-freemind/images/color-themes/spacelab-inverse.png)
+![spacelab-inverse](/hexo-theme-freemind-blog/images/color-themes/spacelab-inverse.png)
 
 ## superhero ##
 
 ### default ###
 
-![superhero](/hexo-theme-freemind/images/color-themes/superhero.png)
+![superhero](/hexo-theme-freemind-blog/images/color-themes/superhero.png)
 
 ### inverse ###
 
-![superhero-inverse](/hexo-theme-freemind/images/color-themes/superhero-inverse.png)
+![superhero-inverse](/hexo-theme-freemind-blog/images/color-themes/superhero-inverse.png)
 
 ## united ##
 
 ### default ###
 
-![united](/hexo-theme-freemind/images/color-themes/united.png)
+![united](/hexo-theme-freemind-blog/images/color-themes/united.png)
 
 ### inverse ###
 
-![united-inverse](/hexo-theme-freemind/images/color-themes/united-inverse.png)
+![united-inverse](/hexo-theme-freemind-blog/images/color-themes/united-inverse.png)
 
 ## yeti ##
 
 ### default ###
 
-![yeti](/hexo-theme-freemind/images/color-themes/yeti.png)
+![yeti](/hexo-theme-freemind-blog/images/color-themes/yeti.png)
 
 ### inverse ###
-![yeti-inverse](/hexo-theme-freemind/images/color-themes/yeti-inverse.png)
+![yeti-inverse](/hexo-theme-freemind-blog/images/color-themes/yeti-inverse.png)
 

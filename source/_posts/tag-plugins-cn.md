@@ -3,7 +3,7 @@ date: "2014-03-16 10:10:16"
 tags: plugins
 categories: Docs
 description: "Introduce tag plugins in freemind."
-feature: /hexo-theme-freemind/images/tag-plugins/plugins.jpg
+feature: /hexo-theme-freemind-blog/images/tag-plugins/plugins.jpg
 toc: true
 ---
 

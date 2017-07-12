@@ -2,7 +2,7 @@ title: 繁體中文測試
 date: "2013-12-25 21:17:16"
 tags: 繁體
 categories: Test
-feature: /hexo-theme-freemind/images/xinjing/pusa1.jpg
+feature: /hexo-theme-freemind-blog/images/xinjing/pusa1.jpg
 description: "观音心经 - 般若波罗蜜多心经。"
 ---
 
