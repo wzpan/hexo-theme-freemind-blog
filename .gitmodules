@@ -1,3 +1,4 @@
-[submodule "themes/freemind"]
-	path = themes/freemind
+[submodule "freemind"]
+	path = freemind
 	url = https://github.com/wzpan/hexo-theme-freemind.git
+	branch = master
